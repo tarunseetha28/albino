@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Ellipse_7" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(-1258 -11919)">
+    <g transform="matrix(1, 0, 0, 1, 1258, 11919)" filter="url(#Ellipse_7)">
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="64" cy="64" r="64" transform="translate(9 6)" fill="rgba(255,255,255,0.89)"/>
+    </g>
+    <path id="telegram-1" d="M46.555,53.086a3.011,3.011,0,0,0,2.8.367,2.938,2.938,0,0,0,1.833-2.127c2.2-10.342,7.539-36.518,9.542-45.926a1.977,1.977,0,0,0-.658-1.919,2.028,2.028,0,0,0-2.018-.355c-10.618,3.93-43.318,16.2-56.684,21.145A2.082,2.082,0,0,0,1.5,28.229c5.994,1.793,13.862,4.287,13.862,4.287s3.677,11.1,5.594,16.751a2.219,2.219,0,0,0,1.527,1.459,2.194,2.194,0,0,0,2.054-.524l7.84-7.4s9.045,6.632,14.176,10.286ZM18.674,31.114l4.252,14.024.945-8.881L49.662,13a.7.7,0,0,0,.084-.955.72.72,0,0,0-.952-.162L18.674,31.114Z" transform="translate(1300.502 11960)" fill-rule="evenodd"/>
+  </g>
+</svg>

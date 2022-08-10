@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="242" height="80" viewBox="0 0 242 80">
+  <defs>
+    <filter id="Rectangle_78" x="0" y="0" width="242" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-382 -8362)">
+    <g transform="matrix(1, 0, 0, 1, 382, 8362)" filter="url(#Rectangle_78)">
+      <rect id="Rectangle_78-2" data-name="Rectangle 78" width="224" height="62" rx="10" transform="translate(9 6)"/>
+    </g>
+    <text id="Connect_Wallet" data-name="Connect Wallet" transform="translate(458 8404)" fill="#fff" font-size="16" font-family="Jost-Medium, Jost" font-weight="500"><tspan x="0" y="0">CONNECT WALLET</tspan></text>
+    <path id="polygon.5cfa1c9f705e1d3907b6b8794bd1615f" d="M207.377,240.052a2.431,2.431,0,0,0-2.342,0l-5.374,3.073-3.651,2-5.374,3.073a2.431,2.431,0,0,1-2.342,0l-4.271-2.4a2.293,2.293,0,0,1-1.171-1.937v-4.743a2.156,2.156,0,0,1,1.171-1.937l4.2-2.338a2.431,2.431,0,0,1,2.342,0l4.2,2.338a2.293,2.293,0,0,1,1.171,1.937v3.073l3.651-2.071v-3.073a2.156,2.156,0,0,0-1.171-1.937l-7.785-4.409a2.431,2.431,0,0,0-2.342,0l-7.923,4.409a2.156,2.156,0,0,0-1.171,1.937v8.884a2.156,2.156,0,0,0,1.171,1.937l7.923,4.409a2.431,2.431,0,0,0,2.342,0l5.374-3.006,3.651-2.071,5.374-3.006a2.431,2.431,0,0,1,2.342,0l4.2,2.338a2.293,2.293,0,0,1,1.171,1.937v4.743a2.156,2.156,0,0,1-1.171,1.937l-4.2,2.4a2.431,2.431,0,0,1-2.342,0l-4.2-2.338a2.293,2.293,0,0,1-1.171-1.937v-3.073l-3.651,2.071v3.073a2.156,2.156,0,0,0,1.171,1.937L205.1,261.7a2.431,2.431,0,0,0,2.342,0l7.923-4.409a2.293,2.293,0,0,0,1.171-1.937v-8.884a2.156,2.156,0,0,0-1.171-1.937Z" transform="translate(227.368 8152.716)" fill="#8247e5"/>
+  </g>
+</svg>

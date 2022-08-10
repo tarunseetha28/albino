@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="492" viewBox="0 0 390 492">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbb"/>
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.811" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#8e8e8e"/>
+    </linearGradient>
+    <filter id="Rectangle_44" x="43.5" y="58.5" width="131" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_10" x="64.452" y="79.241" width="89.095" height="89.519" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_18" data-name="Group 18" transform="translate(-571.5 -4777.5)">
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="387" height="489" transform="translate(573 4779)" fill="#090e13" stroke="#1c2027" stroke-width="3"/>
+    <text id="Virtual_Goods_on_the_Blockchain" data-name="Virtual Goods on the Blockchain" transform="translate(630 4972)" fill="#fff" font-size="26" font-family="Jost-Medium, Jost" font-weight="500"><tspan x="0" y="28">Virtual Goods on the </tspan><tspan x="0" y="66">Blockchain</tspan></text>
+    <text id="A_platform_for_managing_distributing_and_trading_virtual_products._Gamers_and_content_providers_will_benefit_from_a_new_system_of_virtual_ownership." data-name="A platform for managing, distributing, and trading virtual products. Gamers and content providers will benefit from a new system of virtual ownership." transform="translate(630 5078)" fill="#838587" font-size="16" font-family="Jost-Regular, Jost"><tspan x="0" y="17">A platform for managing, distributing, </tspan><tspan x="0" y="40">and trading virtual products. Gamers </tspan><tspan x="0" y="63">and content providers will benefit from </tspan><tspan x="0" y="86">a new system of virtual ownership.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 571.5, 4777.5)" filter="url(#Rectangle_44)">
+      <rect id="Rectangle_44-2" data-name="Rectangle 44" width="101" height="101" transform="translate(58.5 63.5)" opacity="0.17" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 571.5, 4777.5)" filter="url(#Union_10)">
+      <path id="Union_10-2" data-name="Union 10" d="M28.771,167.7,10.522,157.258A6.141,6.141,0,1,1,4.58,147.014v-19.1a1.567,1.567,0,0,1,.789-1.359l18.25-10.435a6.144,6.144,0,1,1,11.859,0l18.251,10.436a1.566,1.566,0,0,1,.788,1.359v19.1a6.142,6.142,0,1,1-5.942,10.243L30.325,167.7a1.565,1.565,0,0,1-1.554,0ZM7.712,128.822v18.194a6.111,6.111,0,0,1,4.362,7.522l17.475,10,17.474-10a6.1,6.1,0,0,1-.215-1.585h0a6.153,6.153,0,0,1,4.577-5.937V128.822l-17.46-9.984a6.126,6.126,0,0,1-8.754,0Zm42.228,24.13a3.013,3.013,0,1,0,3.013-3.014A3.018,3.018,0,0,0,49.94,152.952Zm-46.809,0a3.013,3.013,0,1,0,3.013-3.014A3.017,3.017,0,0,0,3.132,152.952Zm23.4-38.421a3.013,3.013,0,1,0,3.014-3.014A3.017,3.017,0,0,0,26.535,114.531Zm2.23,42.427L14.688,148.9a1.567,1.567,0,0,1-.788-1.359V133.326a1.568,1.568,0,0,1,.788-1.36l14.078-8.056a1.562,1.562,0,0,1,1.554,0l14.09,8.057a1.568,1.568,0,0,1,.788,1.36v14.209a1.564,1.564,0,0,1-.788,1.359l-14.09,8.064a1.564,1.564,0,0,1-1.555,0ZM17.03,146.627,27.98,152.9v-10.6l-10.95-6.267Zm14.081-4.333v10.6l10.957-6.269v-10.6Zm-12.495-8.967,10.93,6.255,10.933-6.255-10.936-6.253Z" transform="translate(79.45 -24.14)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

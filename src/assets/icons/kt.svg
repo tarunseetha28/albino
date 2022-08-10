@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="203" height="100" viewBox="0 0 203 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbb"/>
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.811" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#8e8e8e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_21" data-name="Group 21" transform="translate(-412 -8017)">
+    <rect id="Rectangle_86" data-name="Rectangle 86" width="203" height="100" rx="10" transform="translate(412 8017)" fill="url(#linear-gradient)"/>
+    <text id="Total_Supply_99_000_000" data-name="Total Supply
+99,000,000" transform="translate(436 8059)" fill="#14171a" font-size="19" font-family="Jost-SemiBold, Jost" font-weight="600"><tspan x="0" y="0">Total Supply</tspan><tspan font-size="21" font-family="Jost-Regular, Jost" font-weight="400"><tspan x="0" y="29">99,000,000</tspan></tspan></text>
+  </g>
+</svg>

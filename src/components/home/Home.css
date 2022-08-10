@@ -1,0 +1,609 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.home-1 {
+    background-repeat: no-repeat;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('../../assets/images/hbg.png');
+    background-size: cover;
+    margin-top: -100px;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 2000px;
+    height: 120vh;
+}
+
+.productR11 {
+    width: 50%;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../assets/images/p1.png');
+}
+
+.productR12 {
+    width: 50%;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../assets/images/p2.png');
+}
+
+.productR21 {
+    width: 50%;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../assets/images/p3.png');
+}
+
+.productR22 {
+    width: 50%;
+    padding: 20px;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../assets/images/p4.png');
+}
+
+.prl {
+    background-color: #14171A;
+    color: white;
+    font-size: 12px;
+    width: fit-content;
+    padding: 5px;
+}
+
+.prl2 {
+    margin-top: 5px;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #14171A;
+    color: white;
+    width: fit-content;
+    padding: 5px;
+}
+
+.home-btn {
+    margin-top: 20px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.btn {
+    color: black;
+    padding: 15px;
+}
+
+.btn-8 {
+    background-image: linear-gradient(to right, #BBBBBB 0%, #FFFFFF 51%, #BFBFBF 100%);
+}
+
+.btn:hover {
+    color: black;
+    padding: 15px;
+}
+
+.about {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aboutLeft {
+    flex: 0.5;
+}
+
+.aboutKey {
+    display: flex;
+}
+
+.aboutKeyItem {
+    margin-top: 20px;
+    flex: 0.3;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutKeyItem1 {
+    font-size: 22px;
+    color: #838587;
+}
+
+.abk2 {
+    margin-top: 20px;
+}
+
+.aboutRight {
+    flex: 0.5;
+}
+
+.aboutRightext1 {
+    font-size: 20px;
+}
+
+.aboutRightext2 {
+    font-size: 16px;
+    color: #838587;
+}
+
+.aboutTxt {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.banner {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mission {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.missionLeft {
+    flex: 0.5;
+    padding-right: 50px;
+}
+
+.missionRight {
+    flex: 0.5;
+    padding-right: 50px;
+}
+
+.missionTitle {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+
+
+.missionTitle>img {
+    height: 120px;
+}
+
+.purpose {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    max-width: 2000px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.purposeR1 {
+    display: flex;
+    color: white;
+
+}
+
+.purpose1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.purposeLeft {
+    flex: 0.5;
+    display: flex;
+    flex-direction: column;
+}
+
+.purposeRight {
+    flex: 0.5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.popTxt {
+    line-height: 80px;
+}
+
+.popDes {
+    margin-top: 20px;
+}
+
+.purposeSol {
+    flex: 0.5;
+    width: 50%;
+}
+
+.purposeSolR2 {
+    flex: 0.25;
+    width: 25%;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.productR1 {
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+    column-gap: 10px;
+}
+
+.productR2 {
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    column-gap: 10px;
+}
+
+.benefits {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.benefits-left {
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    margin-right: 20px;
+}
+
+.benefits-right {
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+}
+
+.mint-list {
+    list-style-image: url(../../assets/icons/bullet.svg);
+    list-style-position: inside;
+    line-height: 30px;
+    padding: 10px 0 10px 20px;
+    text-indent: -1em;
+    margin: 10px 0;
+}
+
+.token {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.tokenContent {
+    background-image: url(../../assets/images/mask.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #FFFFFF;
+    padding: 50px 50px 0px 60px;
+    border-radius: 20px;
+    display: flex;
+    width: 100%;
+}
+
+.tokenContentLeft {
+    flex: 0.7;
+}
+
+.tokenContentK {
+    margin-top: 30px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.tokenContentK>img {
+    width: 150px;
+}
+
+.tokenContentF {
+    column-gap: 10px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.tokenContentI {
+    display: flex;
+    flex-direction: column;
+    flex: 0.33;
+}
+
+.tokenContentRight {
+    flex: 0.3;
+}
+
+.tokenbtn {
+    margin-top: auto;
+    background-color: black;
+    border: 2px solid black;
+    color: white;
+    padding: 6px;
+    width: 160px;
+    border-radius: 10px;
+}
+
+.tokenbtn:hover {
+    background-color: transparent;
+    color: black
+}
+
+.tokenTitle {
+    font-size: 18px;
+    ;
+}
+
+.tokenInput {
+    border-radius: 10px;
+    padding: 7px;
+    border: 1px solid #70707042;
+}
+
+.roadmap {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    max-width: 2000px;
+    width: 100%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    width: 100%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.teamMbr {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.teamCard {
+    display: flex;
+    flex-direction: column;
+}
+
+.pmo {
+    display: none;
+}
+
+@media (max-width:900px) {
+    .home-1 {
+        height: 80vh !important;
+    }
+
+    .btn {
+        padding: 10px !important;
+    }
+
+    .aboutTxt {
+        font-size: 32px !important;
+    }
+
+    .aboutRightext1 {
+        font-size: 18px !important;
+    }
+
+    .aboutKey {
+        justify-content: space-between !important;
+        margin-bottom: 20px !important;
+    }
+
+    .benefits-right {
+        margin-top: 20px !important;
+    }
+
+    .benefits-left {
+        margin-right: 0px !important;
+    }
+
+    .about {
+        flex-direction: column !important;
+    }
+
+    .mission {
+        flex-direction: column !important;
+        row-gap: 30px !important;
+    }
+
+    .missionLeft {
+        padding-right: 0px !important;
+    }
+
+    .missionRight {
+        padding-right: 0px !important;
+    }
+
+    .popTxt {
+        line-height: 50px !important;
+        margin-bottom: 20px !important;
+    }
+
+    .purposeR1 {
+        flex-direction: column !important;
+    }
+
+    .pmo {
+        display: flex !important;
+    }
+
+    .ppc {
+        display: none !important;
+    }
+
+    .benefits {
+        flex-direction: column !important;
+    }
+
+    .teamMbr {
+        margin-top: 20px !important;
+        column-gap: 5px !important;
+    }
+
+    .artm {
+        font-size: 14px !important;
+    }
+
+    .artm2 {
+        font-size: 12px !important;
+    }
+
+    .tokenContent {
+        padding: 10px 10px 0px 20px !important;
+        flex-direction: column !important;
+    }
+
+    .tokenContentK {
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        justify-content: space-between !important;
+        row-gap: 10px !important;
+    }
+
+    .tokenContentRight>img {
+        height: 200px !important;
+    }
+
+    .tokenContentI {
+        width: 50% !important;
+    }
+
+    .tokenContentF {
+        column-gap: 5px !important;
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        justify-content: space-between !important;
+        row-gap: 10px !important;
+    }
+
+    .aboutKeyItem1 {
+        font-size: 13px !important;
+        font-weight: 500 !important;
+    }
+
+    .productR11 {
+        height: 40vh !important;
+        padding: 10px !important;
+    }
+
+    .productR12 {
+        height: 40vh !important;
+        padding: 10px !important;
+    }
+
+    .productR21 {
+        height: 40vh !important;
+        padding: 10px !important;
+    }
+
+    .productR22 {
+        height: 40vh !important;
+        padding: 10px !important;
+    }
+
+    .prl {
+        font-size: 8px !important;
+    }
+
+    .prl2 {
+        font-size: 14px !important;
+    }
+}

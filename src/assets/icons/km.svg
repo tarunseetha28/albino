@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="203" height="100" viewBox="0 0 203 100">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbb"/>
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.811" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#8e8e8e"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_23" data-name="Group 23" transform="translate(-854 -8017)">
+    <rect id="Rectangle_87" data-name="Rectangle 87" width="203" height="100" rx="10" transform="translate(854 8017)" fill="url(#linear-gradient)"/>
+    <text id="Minimum_Purchase_50_Matic" data-name="Minimum Purchase
+50 Matic" transform="translate(877 8056)" fill="#14171a" font-size="19" font-family="Jost-SemiBold, Jost" font-weight="600"><tspan x="0" y="0">Minimum Purchase</tspan><tspan font-size="22" font-family="Jost-Regular, Jost" font-weight="400"><tspan x="0" y="31">50 Matic</tspan></tspan></text>
+  </g>
+</svg>

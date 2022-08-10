@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="146" height="146" viewBox="0 0 146 146">
+  <defs>
+    <filter id="Ellipse_5" x="0" y="0" width="146" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-962 -11919)">
+    <g transform="matrix(1, 0, 0, 1, 962, 11919)" filter="url(#Ellipse_5)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="64" cy="64" r="64" transform="translate(9 6)" fill="rgba(255,255,255,0.89)"/>
+    </g>
+    <g id="twitter_1_" data-name="twitter (1)" transform="translate(1004 11964)">
+      <g id="Group_8" data-name="Group 8" transform="translate(0)">
+        <path id="Path_21" data-name="Path 21" d="M62.065,53.97a26.528,26.528,0,0,1-7.331,2.009,12.652,12.652,0,0,0,5.6-7.033,25.428,25.428,0,0,1-8.068,3.08,12.723,12.723,0,0,0-22.01,8.7,13.1,13.1,0,0,0,.295,2.9A36.015,36.015,0,0,1,4.321,50.32a12.727,12.727,0,0,0,3.91,17.006,12.566,12.566,0,0,1-5.749-1.567v.14A12.782,12.782,0,0,0,12.677,78.4a12.7,12.7,0,0,1-3.336.419A11.25,11.25,0,0,1,6.932,78.6a12.845,12.845,0,0,0,11.889,8.864A25.566,25.566,0,0,1,3.045,92.893,23.827,23.827,0,0,1,0,92.718a35.821,35.821,0,0,0,19.519,5.71c23.414,0,36.215-19.4,36.215-36.207,0-.562-.019-1.106-.047-1.645A25.384,25.384,0,0,0,62.065,53.97Z" transform="translate(0 -48)"/>
+      </g>
+    </g>
+  </g>
+</svg>

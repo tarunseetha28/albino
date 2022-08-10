@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="491" viewBox="0 0 390 491">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbb"/>
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.811" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#8e8e8e"/>
+    </linearGradient>
+    <filter id="Rectangle_43" x="42.5" y="51.5" width="131" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_6" x="78.5" y="68.5" width="62.251" height="96.143" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(-184.5 -4289.5)">
+    <g id="Group_15" data-name="Group 15">
+      <rect id="Rectangle_37" data-name="Rectangle 37" width="387" height="488" transform="translate(186 4291)" fill="#090e13" stroke="#1c2027" stroke-width="3"/>
+    </g>
+    <text id="The_first_easy-to-use_gaming_cryptocurrency" data-name="The first easy-to-use gaming cryptocurrency" transform="translate(242 4483)" fill="#fff" font-size="26" font-family="Jost-Medium, Jost" font-weight="500"><tspan x="0" y="28">The first easy-to-use </tspan><tspan x="0" y="66">gaming cryptocurrency</tspan></text>
+    <text id="Metaverse_is_the_world_s_first_cryptocurrency_designed_just_for_online_investors_in_metaverse_with_a_fair_advantage._In_the_most_popular_gaming_community-building_platform_online_you_may_earn_and_sell_virtual_items" data-name="Metaverse is the world&apos;s first cryptocurrency designed just for online investors in metaverse with a fair advantage. In the most popular gaming community-building platform online, you may earn and sell virtual items" transform="translate(242 4589)" fill="#838587" font-size="16" font-family="Jost-Regular, Jost"><tspan x="0" y="17">Metaverse is the world&apos;s first </tspan><tspan x="0" y="40">cryptocurrency designed just for online </tspan><tspan x="0" y="63">investors in metaverse with a fair </tspan><tspan x="0" y="86">advantage. In the most popular gaming </tspan><tspan x="0" y="109">community-building platform online, you </tspan><tspan x="0" y="132">may earn and sell virtual items</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 184.5, 4289.5)" filter="url(#Rectangle_43)">
+      <rect id="Rectangle_43-2" data-name="Rectangle 43" width="101" height="101" transform="translate(57.5 56.5)" opacity="0.17" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.5, 4289.5)" filter="url(#Union_6)">
+      <path id="Union_6-2" data-name="Union 6" d="M28.2,30.33a4.027,4.027,0,0,0-2.289.711,4.029,4.029,0,0,0-3.749-2.569h-.085a4.031,4.031,0,0,0-2.218.669,4.022,4.022,0,0,0-3.728-2.526h-.085a4.064,4.064,0,0,0-1.9.477V15.084a4.068,4.068,0,1,0-8.136,0V41.13H4.068A4.065,4.065,0,0,0,.141,44.175,1.077,1.077,0,0,0,0,44.695v15.58A3.518,3.518,0,0,0,3.508,63.8H6.052V66.08H3.784A1.064,1.064,0,0,0,2.72,67.148v8.928a1.064,1.064,0,0,0,1.063,1.067h24.4a1.064,1.064,0,0,0,1.063-1.067V67.14a1.064,1.064,0,0,0-1.063-1.067H26.2V63.789h2.544a3.518,3.518,0,0,0,3.508-3.521V34.407A4.058,4.058,0,0,0,28.2,30.33Zm-1.942,4.077a1.942,1.942,0,1,1,3.884,0v10.8a1.942,1.942,0,1,1-3.884,0Zm-6.08-1.893a1.9,1.9,0,0,1,1.9-1.907h.085a1.9,1.9,0,0,1,1.9,1.907V45.256a1.9,1.9,0,0,1-1.9,1.907h-.085a1.9,1.9,0,0,1-1.9-1.907ZM16.052,28.75h.085a1.9,1.9,0,0,1,1.9,1.907V41.613a3.982,3.982,0,0,0-1.9-.477H14.152V30.657a1.9,1.9,0,0,1,1.9-1.907ZM8.143,15.084a1.942,1.942,0,1,1,3.884,0V41.13H8.143ZM27.135,75.008H4.855v-6.8H27.129v6.8Zm1.623-13.354H24.088v4.418H8.186V61.654H3.515a1.387,1.387,0,0,1-1.382-1.387V45.213a1.948,1.948,0,0,1,1.942-1.949H16.13a1.9,1.9,0,0,1,1.9,1.907v.085a1.9,1.9,0,0,1-1.9,1.907H7.08a1.067,1.067,0,0,0,0,2.135,8.54,8.54,0,0,1,8.512,8.545,1.063,1.063,0,1,0,2.127,0A10.674,10.674,0,0,0,13.437,49.3h2.7a4.018,4.018,0,0,0,2.977-1.323A4.006,4.006,0,0,0,22.09,49.3h.085a4.021,4.021,0,0,0,3.012-1.366,4.034,4.034,0,0,0,4.968.868V60.274a1.407,1.407,0,0,1-1.4,1.38Z" transform="translate(93.5 62.5)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

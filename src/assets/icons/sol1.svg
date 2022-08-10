@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="492" viewBox="0 0 390 492">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="0.08" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bbb"/>
+      <stop offset="0" stop-color="#b7b7b7"/>
+      <stop offset="0.529" stop-color="#fff"/>
+      <stop offset="0.811" stop-color="#bfbfbf"/>
+      <stop offset="1" stop-color="#8e8e8e"/>
+    </linearGradient>
+    <filter id="Rectangle_41" x="43.5" y="50.5" width="131" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_13" x="67.526" y="71.536" width="82.946" height="88.928" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-1345.5 -3800.5)">
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="387" height="489" transform="translate(1347 3802)" fill="#090e13" stroke="#1c2027" stroke-width="3"/>
+    <g transform="matrix(1, 0, 0, 1, 1345.5, 3800.5)" filter="url(#Rectangle_41)">
+      <rect id="Rectangle_41-2" data-name="Rectangle 41" width="101" height="101" transform="translate(58.5 55.5)" opacity="0.17" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="A_solution_to_Fraud_High_Fees" data-name="A solution to Fraud &amp; High Fees" transform="translate(1404 3995)" fill="#fff" font-size="26" font-family="Jost-Medium, Jost" font-weight="500"><tspan x="0" y="28">A solution to Fraud &amp; </tspan><tspan x="0" y="66">High Fees</tspan></text>
+    <text id="Every_legit_virtual_item_purchase_results_in_the_loss_of_7.5_things_due_to_fraud._Tokens_will_establish_trust_and_security_issues_when_there_will_be_loss_of_token_." data-name="Every legit virtual item purchase results in the loss of 7.5 things due to fraud. Tokens will establish trust and security issues when there will be loss of token ." transform="translate(1404 4101)" fill="#838587" font-size="16" font-family="Jost-Regular, Jost"><tspan x="0" y="17">Every legit virtual item purchase results </tspan><tspan x="0" y="40">in the loss of 7.5 things due to fraud. </tspan><tspan x="0" y="63">Tokens will establish trust and security </tspan><tspan x="0" y="86">issues when there will be loss of token .</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 1345.5, 3800.5)" filter="url(#Union_13)">
+      <path id="Union_13-2" data-name="Union 13" d="M248.9,176.967c-8.121-2.048-14.367-7.006-18.563-14.735-2.683-4.94-4.254-10.516-4.945-17.544a82.87,82.87,0,0,1,.067-15.719,2.112,2.112,0,0,1,1.526-1.944q11.722-4.161,23.431-8.371a3.1,3.1,0,0,1,2.206.012q11.713,4.2,23.436,8.367A2.115,2.115,0,0,1,277.594,129c.228,2.806.365,5.581.406,8.248v.027c-.057,8.64-1.129,15.124-3.474,21.023-3.319,8.347-8.588,13.99-16.106,17.248a28.757,28.757,0,0,1-5.7,1.726,5.8,5.8,0,0,1-1.168.115A10.731,10.731,0,0,1,248.9,176.967Zm2.335-56.1q-11.692,4.2-23.4,8.359a80.437,80.437,0,0,0-.069,15.231c.66,6.71,2.145,12,4.674,16.659,3.921,7.223,9.5,11.66,17.049,13.566a6.21,6.21,0,0,0,2.745.279,26.254,26.254,0,0,0,5.22-1.576c6.912-3,11.767-8.213,14.845-15.952,2.231-5.613,3.253-11.833,3.308-20.165-.042-2.595-.174-5.295-.394-8.023-7.866-2.8-15.637-5.576-23.407-8.365a.948.948,0,0,0-.317-.067A.714.714,0,0,0,251.239,120.868ZM236.9,147.923a14.633,14.633,0,1,1,14.63,14.445A14.554,14.554,0,0,1,236.9,147.923Zm2.387,0a12.245,12.245,0,1,0,12.244-12.087A12.18,12.18,0,0,0,239.283,147.924Zm9.3,6.006-4.863-4.246a1.169,1.169,0,0,1-.1-1.664,1.208,1.208,0,0,1,1.686-.1l3.968,3.466,8.373-9.364a1.205,1.205,0,0,1,1.686-.1,1.169,1.169,0,0,1,.105,1.664l-9.165,10.248a1.209,1.209,0,0,1-.822.4l-.074,0A1.2,1.2,0,0,1,248.584,153.93Z" transform="translate(-142.53 -41.92)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
